@@ -1,13 +1,13 @@
 # Heart Disease Prediction using Random Forest Classifier
 
-## 📌 Project Overview
+##  Project Overview
 Cardiovascular diseases (CVDs) are the leading cause of death worldwide, accounting for **17.9 million deaths each year** (31% of all global deaths). Early detection is crucial, especially for individuals with risk factors such as hypertension, diabetes, high cholesterol, or existing heart conditions.
 
 This project uses a **Random Forest Classifier** to predict the presence of heart disease based on a set of clinical and demographic features. The goal is to assist early detection and support data-driven decision-making in healthcare.
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 The dataset contains **11 key health-related features**, including both numerical and categorical variables:
 
 - Age  
@@ -34,7 +34,7 @@ A Random Forest is an ensemble of decision trees that improves predictive accura
 
 ---
 
-## ✅ Model Performance
+##  Model Performance
 
 | Metric | Score |
 |--------|--------|
@@ -54,7 +54,7 @@ The model shows **perfect separation** in the test set predictions.
 
 ---
 
-## 🔥 Feature Importance
+##  Feature Importance
 
 Top contributing features:
 
